@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>test</title>
+    <title>大叔筆記</title>
     <link>https://john123797.github.io/</link>
-    <description>Recent content on test</description>
+    <description>Recent content on 大叔筆記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Mon, 14 Dec 2020 14:59:13 +0800</lastBuildDate><atom:link href="https://john123797.github.io/index.xml" rel="self" type="application/rss+xml" />
