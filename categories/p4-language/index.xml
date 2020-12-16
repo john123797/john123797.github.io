@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>大叔筆記</title>
-    <link>https://john123797.github.io/</link>
-    <description>Recent content on 大叔筆記</description>
+    <title>P4 Language on 大叔筆記</title>
+    <link>https://john123797.github.io/categories/p4-language/</link>
+    <description>Recent content in P4 Language on 大叔筆記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 14 Dec 2020 14:59:13 +0800</lastBuildDate><atom:link href="https://john123797.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Dec 2020 14:59:13 +0800</lastBuildDate><atom:link href="https://john123797.github.io/categories/p4-language/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用 ONOS 來控制 P4 Switch</title>
       <link>https://john123797.github.io/post/p4_onos/</link>
@@ -18,15 +18,6 @@
   Pipeline-agnostic application: 這類型的應用程式並不會知道即將面對的裝置所用的 Pipeline 長怎麼樣，僅會專心去做要做的事情，舉例來說 ProxyArp 或是 LLDP provider 等等。
   Pipeline-aware application: 這類型的則是針對特定 Pipeline 所設計的，會直接產生出特定的 Flow 以及 Group，並直接安裝到特定的 Table 中。
   ONOS 與 PI 講到 P4 的控制層面一定會想到 PI(protocol independent) 架構 雖然也是有人使用 OpenFlow 來當作控制協議 但其在彈性上並不是很好 故目前大多數人會傾向使用 P4Runtime</description>
-    </item>
-    
-    <item>
-      <title>關於我</title>
-      <link>https://john123797.github.io/about_me/</link>
-      <pubDate>Mon, 14 Dec 2020 14:44:14 +0800</pubDate>
-      
-      <guid>https://john123797.github.io/about_me/</guid>
-      <description>test</description>
     </item>
     
   </channel>
