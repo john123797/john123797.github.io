@@ -3,42 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://john123797.github.io/categories/</loc>
-    <lastmod>2020-12-14T14:59:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john123797.github.io/tags/onos/</loc>
-    <lastmod>2020-12-14T14:59:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john123797.github.io/tags/p4/</loc>
-    <lastmod>2020-12-14T14:59:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john123797.github.io/categories/p4-language/</loc>
-    <lastmod>2020-12-14T14:59:13+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://john123797.github.io/post/</loc>
-    <lastmod>2020-12-14T14:59:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john123797.github.io/tags/sdn/</loc>
-    <lastmod>2020-12-14T14:59:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john123797.github.io/tags/</loc>
-    <lastmod>2020-12-14T14:59:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john123797.github.io/post/p4_onos/</loc>
     <lastmod>2020-12-14T14:59:13+08:00</lastmod>
   </url>
   
@@ -48,8 +13,21 @@
   </url>
   
   <url>
-    <loc>https://john123797.github.io/about_me/</loc>
+    <loc>https://john123797.github.io/post/test1/</loc>
+    <lastmod>2020-12-14T14:59:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john123797.github.io/about/</loc>
     <lastmod>2020-12-14T14:44:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john123797.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://john123797.github.io/tags/</loc>
   </url>
   
 </urlset>

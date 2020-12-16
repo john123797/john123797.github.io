@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 大叔筆記</title>
+    <title>Categories on test</title>
     <link>https://john123797.github.io/categories/</link>
-    <description>Recent content in Categories on 大叔筆記</description>
+    <description>Recent content in Categories on test</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Mon, 14 Dec 2020 14:59:13 +0800</lastBuildDate><atom:link href="https://john123797.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>P4 Language</title>
-      <link>https://john123797.github.io/categories/p4-language/</link>
-      <pubDate>Mon, 14 Dec 2020 14:59:13 +0800</pubDate>
-      
-      <guid>https://john123797.github.io/categories/p4-language/</guid>
-      <description></description>
-    </item>
-    
+    <language>zh-tw</language><atom:link href="https://john123797.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
