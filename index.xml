@@ -6,7 +6,18 @@
     <description>Recent content on 大叔筆記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 14 Dec 2020 14:59:13 +0800</lastBuildDate><atom:link href="https://john123797.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jan 2021 13:24:31 +0800</lastBuildDate><atom:link href="https://john123797.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EVPN</title>
+      <link>https://john123797.github.io/post/evpn/</link>
+      <pubDate>Wed, 27 Jan 2021 13:24:31 +0800</pubDate>
+      
+      <guid>https://john123797.github.io/post/evpn/</guid>
+      <description>EVPN EVPN 的全名為 Ethernet VPN，其最先被定義在 RFC 7432，文件名稱為 BGP MPLS-Based Ethernet VPN。做為一個 MPLS 的 L2 VPN，之前就有相關的標準存在，像是：
+ RFC4447 提出基於 LDP 的 VPWS RFC4762 提出基於 LDP 的 VPLS RFC4761 提出基於 BGP 的 VPLS  一台交換器最重要的元件為轉發表，其支撐了整個第二層網路的運作，包含 Learn, Flood, Filter, Forward 這幾個動作。轉發表記錄了 MAC 地址與其相對應的端口，與路由表不同，轉發表並沒有一個控制層存在，而是透過資料層的自我學習機制建立。VPLS 亦是採用同樣的方式建構轉發表，在資料層進行 Flood &amp;amp; Learn。為了避免轉發表無限膨脹，需在轉發表設置 aging，清除不常用的轉發項目。隨著網路規模的增加，會對 PE 和 WAN 網路造成很大的負擔，進而限制 VPLS 的網路規模。由於近期網路領域出現了 SDN 的概念，因此提出了 EVPN。EVPN 架構是在現有的 BGP VPLS（RFC4761）方案上，參考 BGP/MPLS L3 VPN（RFC4364）架構所提出的。對於 EVPN 來說，控制層是 MP-BGP，而資料層可為 MPLS、PBB、VXLAN。本篇文章會以 RFC 7432 為主，其擴展協議並不會包含在此文章中。
+EVPN 名詞意義 本篇文章所使用到的網路技術用語會在此段落進行說明。</description>
+    </item>
+    
     <item>
       <title>使用 ONOS 來控制 P4 Switch</title>
       <link>https://john123797.github.io/post/p4_onos/</link>
